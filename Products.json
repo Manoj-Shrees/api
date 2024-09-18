@@ -9,7 +9,8 @@
             "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/b497aee0-09c5-413e-9f79-df4d2ed999c3/AIR+JORDAN+1+MID.png",
             "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/cd2e434a-2fb5-4d5d-b3d2-756ce443d21c/AIR+JORDAN+1+MID.png",
             "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/05204412-868d-40c4-b800-7acbe948a2c0/AIR+JORDAN+1+MID.png"],
-              sizes: [40,45,30,35] , price: 135
+        sizes: [40,45,30,35] , 
+        price: 135
     },
     
     {
@@ -22,7 +23,8 @@
                 "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f3c16707-4582-4a8a-a638-0396fa21c196/W+NIKE+DUNK+LOW.png",
                 "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/2b823a4d-3aa7-43ed-945a-e7b56703024a/W+NIKE+DUNK+LOW.png",
                 "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/299a35b4-9eac-4297-bd72-021b9df2722d/W+NIKE+DUNK+LOW.png"],
-                  sizes: [40,42,45,54] , price: 160
+        sizes: [40,42,45,54] , 
+        price: 160
     },
     
     {
@@ -36,7 +38,8 @@
                 "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c78d9bc1-bda5-405b-a49c-95e17a3258f7/NIKE+GO+FLYEASE.png",
                 "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/a6ce2e37-a33b-4df1-9720-b10647b02c8b/NIKE+GO+FLYEASE.png"
                ],
-                  sizes: [38,29,40,41,42] , price: 190
+        sizes: [38,29,40,41,42] , 
+        price: 190
     },
     
     {
@@ -50,7 +53,8 @@
                 "",
                 ""
                ],
-              sizes: [34,37,38,40,42] , price: 170
+        sizes: [34,37,38,40,42] , 
+        price: 170
     },
     
     
@@ -65,7 +69,8 @@
                 "",
                 ""
                ],
-                  sizes: [38,40,42,44] , price: 120
+        sizes: [38,40,42,44] , 
+        price: 120
     },
     
     {
@@ -79,7 +84,8 @@
                 "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_1750,h_1750/global/190296/08/bv/fnd/AUS/fmt/png/First-Mile-TAZON-Modern-SL-Men's-Running-Shoes",
                 "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_1750,h_1750/global/190296/08/fnd/AUS/fmt/png/First-Mile-TAZON-Modern-SL-Men's-Running-Shoes"
                ],
-              sizes: [38,40,42,44] , price: 130
+        sizes: [38,40,42,44] , 
+        price: 130
     }
     
     
